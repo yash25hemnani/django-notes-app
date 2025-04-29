@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+
+# Environments
+.env
+venv/
+env/
+*/env/
+myvenv/
+
+# Django specific
+*.log
+*.pot
+media/
+static/
+db.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+__pycache__/
+*.pyc
+*.log
